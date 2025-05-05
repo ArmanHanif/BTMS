@@ -1,0 +1,19 @@
+Component List
+
+ESP32 WROOM: https://www.amazon.in/ESP32-WROOM-32E-Development-Board/dp/B0CDGTV8MC
+
+DS18B20 Temperature Sensor: https://www.amazon.in/Robocraze-Waterproof-DS18B20-Digital-Temperature/dp/B07F1RGDK7
+
+MQ-135 Gas Sensor: https://www.amazon.in/MQ135-Quality-Hazardous-Detection-Arduino/dp/B07ZZ61LQT
+
+I2C LCD 16x2 Display: https://www.amazon.in/s?k=16+2+lcd+i2c+display+for+arduino
+
+5V Relay Module: https://www.amazon.in/Robotbanao-Channel-Relay-Board-Arduino/dp/B07P692YT9
+
+Active Buzzer: https://www.amazon.in/Robocraze-Active-Buzzer-Module-Arduino/dp/B077QJZ9Y2
+
+Breadboard: https://www.amazon.in/gp/bestsellers/industrial/10981797031
+
+Jumper Wires: https://www.amazon.in/b?ie=UTF8&node=10981795031
+
+4.7kΩ Resistor: https://www.amazon.in/4-7K-ohm-Watt-Resistor-Tolerance/dp/B0DQJFWCX6
